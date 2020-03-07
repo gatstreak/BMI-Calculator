@@ -1,0 +1,9 @@
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Tyler Work\OneDrive\Lv-6 PE\BMI Calculator\obj\Debug\BMI Calculator.pdb
